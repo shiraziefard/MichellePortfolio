@@ -32,7 +32,7 @@ html, body {
 
 #background2{
   height:35em;
-  background: url('/public/photos/background2.gif') no-repeat center;
+  background: url('/public/photos/background2.jpg') no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -42,7 +42,7 @@ html, body {
 
 #background3{
   height:35em;
-  background: url('/public/photos/background3.gif') no-repeat center;
+  background: url('/public/photos/background3.jpg') no-repeat center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
